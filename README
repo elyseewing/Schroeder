@@ -1,0 +1,9 @@
+[SCHROEDER]
+
+Schroeder is a fictional character in the long-running comic strip Peanuts, created by Charles M. Schulz. He is distinguished by his precocious skill at playing the toy piano, as well as by his love of classical music and the composer Ludwig van Beethoven in particular. Schroeder is also the catcher on Charlie Brown's baseball team, though he is always seen walking back to the mound with the baseball, never throwing it—admitting in one strip he didn't want the other team to discover his lack of ability. He is also the object of the unrequited infatuation of Lucy van Pelt, who constantly leans on Schroeder's piano. Charlie Brown, Peppermint Patty, Frieda and Snoopy are also occasionally depicted as leaning on Schroeder's piano.
+(http://en.wikipedia.org/wiki/Schroeder_(Peanuts))
+
+But seriously...
+This application will be my playground for screwing with Rails 3, Google Maps API, and the Twitter API, Facebook API, LinkedIn API, and any other social networking sites that strike my fancy. Basically, the goal of the app will be to select one or more of your social networking sites, then build maps pinpointing the locations of your friends/followers/connections/buddies/imaginary friends/whatever you like.
+
+Certainly not groundbreaking, but fun for me and hopefully a useful resource for anyone looking to integrate common APIs with Rails.
